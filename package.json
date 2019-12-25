@@ -47,7 +47,7 @@
     "css-loader": "^0.25.0",
     "date-fns": "^1.29.0",
     "es6-plato": "^1.0.14",
-    "eslint": "^3.7.1",
+    "eslint": "^6.8.0",
     "eslint-config-standard": "^6.1.0",
     "eslint-friendly-formatter": "^2.0.5",
     "eslint-loader": "^1.5.0",
